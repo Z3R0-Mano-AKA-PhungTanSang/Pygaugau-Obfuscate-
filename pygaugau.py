@@ -1,3 +1,14 @@
+#Copyright by TheSmartCat.
+
+#>>TheSmartCat GitHub:
+#> https://github.com/Thesmartcat2303/pygaugau
+
+#If you want a more powerful Obfuscate,
+#you can use ObsidianOBF, also developed by TheSmartCat
+#but not yet complete. However, we promise it will be released soon.
+#Please wait.
+
+
 import requests
 #print(requests.get('https://google.com'))
 
