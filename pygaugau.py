@@ -1,7 +1,7 @@
 #Copyright by TheSmartCat.
 
 #>>TheSmartCat GitHub:
-#> https://github.com/Thesmartcat2303/pygaugau
+#> https://github.com/Thesmartcat2303/
 
 #If you want a more powerful Obfuscate,
 #you can use ObsidianOBF, also developed by TheSmartCat
